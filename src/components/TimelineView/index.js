@@ -15,10 +15,10 @@ const TimelineView = props => {
   }
   return (
     <div className="bg-container">
-      <h1 className="heading">
+      <h1 className="head">
         MY JOURNEY OF
         <br />
-        CCBP 4.O
+        <span className="heading">CCBP 4.0</span>
       </h1>
       <div className="chrono-container">
         <Chrono mode="VERTICAL_ALTERNATING" items={timelineItemsList}>

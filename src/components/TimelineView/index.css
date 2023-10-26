@@ -7,6 +7,13 @@
   min-height: 100vh;
   padding: 30px;
 }
+.head {
+  font-family: 'Roboto';
+  color: #1e293b;
+  font-size: 17px;
+  font-weight: normal;
+  text-align: center;
+}
 
 .heading {
   font-family: 'Roboto';
